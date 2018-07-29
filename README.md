@@ -1,2 +1,2 @@
 # arduboat
-Arduino-based autonomous boat
+Part of a larger arduino-based autonomous boat project
